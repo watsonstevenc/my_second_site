@@ -1,1 +1,1 @@
-alert("this is JavaScript");
+alert("this is SPARTA!");
